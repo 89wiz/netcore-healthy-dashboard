@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HealthyDashboard/.vs
+/HealthyDashboard/HealthyDashboard/bin/Debug/netcoreapp3.1
+/HealthyDashboard/HealthyDashboard/obj
+/HealthyDashboard/HealthyDashboard/Properties
